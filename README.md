@@ -24,10 +24,6 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/63198599?v=4"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
